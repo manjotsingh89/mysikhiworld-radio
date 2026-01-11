@@ -3,77 +3,77 @@
     "id": "darbar-1",
     "name": "Darbar Sahib Live Kirtan",
     "url": "https://live.sgpc.net:8443/stream/1/",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/Darbar-Sahib-live-Kirtan.png",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-takhat-sachkhand-sri-hazur-sahib",
     "name": "Takhat Sachkhand Sri Hazur Sahib (Nanded)",
     "url": "http://radio2.sikhnet.com:8038/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/Guruduwara-hazoor-sahib.png",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-bangla-sahib-delhi",
     "name": "Gurdwara Bangla Sahib (Delhi)",
     "url": "http://radio2.sikhnet.com:8050/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/guruduwara-bangla-sahib.png",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-sis-ganj-sahib-delhi",
     "name": "Gurdwara Sis Ganj Sahib (Delhi)",
     "url": "http://radio2.sikhnet.com:8011/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/Guruduwara-sisganj-sahib.png",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-dukh-nivaran-sahib-surrey",
     "name": "Dukh Nivaran Sahib (Surrey, BC)",
     "url": "http://radio2.sikhnet.com:8037/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/guruduwara-dukh-nivaran-sahib-surrey.jpeg",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-san-jose",
     "name": "Gurdwara San Jose",
     "url": "http://radio2.sikhnet.com:8031/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/san-jose-sikh-guruduwara.webp",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-hacienda-de-guru-ram-das",
     "name": "Hacienda de Guru Ram Das (Espanola, NM)",
     "url": "http://radio2.sikhnet.com:8024/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/gurdwara-hacienda-de-guru-ram-das.jpg",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-siri-guru-singh-sabha-derby",
     "name": "Siri Guru Singh Sabha (Derby, UK)",
     "url": "http://radio2.sikhnet.com:8040/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/gurdwara-siri-guru-singh-sabha-derby.jpg",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-nanak-naam-jahaj",
     "name": "Nanak Naam Jahaj Gurdwara (New Jersey)",
     "url": "http://radio2.sikhnet.com:8033/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/gurdwara-siri-guru-singh-sabha-derby.jpg",
     "bitrate": "Live"
   },
    {
     "id": "gurdwara-west-sacramento",
     "name": "Gurdwara Sahib West Sacramento",
     "url": "http://radio2.sikhnet.com:8019/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/Gurdwara-Sahib-West-Sacramento.jpg",
     "bitrate": "Live"
   },
   {
     "id": "gurdwara-glenwood",
     "name": "Gurdwara Sahib Glenwood",
     "url": "http://radio2.sikhnet.com:8047/live",
-    "image": "https://play-lh.googleusercontent.com/lsYGbwPkYNphJ7bZiYkDiVfSLApkLN-jUh4SDaRBe301oQ12cRapEnbJ_OeUytwurA=w2560-h1440-rw",
+    "image": "http://mysikhiworld.com/wp-content/uploads/2026/01/Gurdwara-Sahib-Glenwood.jpg",
     "bitrate": "Live"
   }
 ]
